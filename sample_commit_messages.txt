@@ -1,0 +1,5 @@
+chore: initial repo with sample data and import scripts
+feat: add census import script and cleaned sample data
+fix: correct staging schema data types
+docs: add README for census-egypt project
+style: update chart images and project README
