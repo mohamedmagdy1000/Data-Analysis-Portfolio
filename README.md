@@ -33,4 +33,11 @@ Currently, I’m building my skills in:
 
 My long-term goal is to become a **professional Data Analyst** capable of delivering impactful, data-driven solutions in real business contexts.  
 
-📌 *This repository is not just about projects—it’s about documenting the full journey from learning to professional work.*  
+📌 *This repository is not just about projects—it’s about documenting the full journey from learning to professional work.* 
+
+# My Learning Journey
+
+- Today I created my first repository on GitHub 🎉
+- I learned how to create a README file and edit it online.
+- Next step: I will practice committing changes.
+
