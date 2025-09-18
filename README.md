@@ -41,7 +41,7 @@ My long-term goal is to become a **professional Data Analyst** capable of delive
 - I learned how to create a README file and edit it online.
 - Next step: I will practice committing changes.
 
-# Day 09 – Excel Lookup Practice
+### Day 09 – Excel Lookup Practice
 Learned how to use `INDEX/MATCH` to retrieve product categories from a reference table based on `Product_ID`.  
 Applied formulas in Excel 2019 and handled missing values using `IFERROR`.  
 Practiced structuring Excel sheets for clean analysis.
